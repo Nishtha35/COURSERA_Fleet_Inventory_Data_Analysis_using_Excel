@@ -1,4 +1,4 @@
-7-Tasks to perform:
+Tasks to perform:
 
 1)Save the CSV file as an XLSX file: Click the 'Edit Workbook' button in the ToolTip to save the file as an XLSX file. The file is converted when you click 'OK' in the prompt.
 
