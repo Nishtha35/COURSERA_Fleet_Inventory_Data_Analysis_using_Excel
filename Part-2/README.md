@@ -1,4 +1,4 @@
-Tasks to perform:
+<b>Tasks to perform: </b>
 
 1)Format the data as a table: Use the Format as Table option to format the data as a table.
 
